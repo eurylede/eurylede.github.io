@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eurylede.github.io/sitemap.html.gz
+Sitemap: https://eurylede.github.io/app/sitemap.html.gz
+Sitemap: https://eurylede.github.io/assets/sitemap.html.gz
+Sitemap: https://eurylede.github.io/css/sitemap.html.gz
+Sitemap: https://eurylede.github.io/data/sitemap.html.gz
+Sitemap: https://eurylede.github.io/includes/sitemap.html.gz
+Sitemap: https://eurylede.github.io/item/sitemap.html.gz
+Sitemap: https://eurylede.github.io/src/sitemap.html.gz
